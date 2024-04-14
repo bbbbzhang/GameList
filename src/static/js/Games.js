@@ -626,6 +626,9 @@ const Games = {
             chName: "最终幻想7 重生",
         },
         {
+            chName: "最终幻想7-3",
+        },
+        {
             chName: "最终幻想16",
         },
         {
@@ -636,6 +639,9 @@ const Games = {
         },
         {
             chName: "死亡空间 重制版",
+        },
+        {
+            chName: "瑞奇与叮当 时空跳转",
         },
     ],
     ROMs: {

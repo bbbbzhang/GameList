@@ -1,6 +1,6 @@
 <script setup lang="ts">
 defineProps({
-  PC: {
+  Likes_noBuy_noCracks: {
     type: Object,
     required: true,
   },
@@ -9,17 +9,17 @@ defineProps({
 
 <template>
   <div class="card">
-    <div class="box_PC">
-      <div class="title">{{ "Games.PC" }}</div>
-      <div class="item1" v-for="(item, index) in PC" :key="index">
+    <div class="BoxPS4_PS5">
+      <div class="title">{{ "Games.Likes_noBuy_noCracks" }}</div>
+      <div
+        class="item2"
+        v-for="(item, index) in Likes_noBuy_noCracks"
+        :key="index"
+      >
         <div v-if="item">
-          <div class="item2" v-for="(item2, index2) in item" :key="index2">
-            <div v-if="item2">
-              <div style="display: flex; justify-content: flex-start">
-                <div style="width: 70px">chName:</div>
-                <div>{{ item2 && item2.chName }}</div>
-              </div>
-            </div>
+          <div style="display: flex; justify-content: flex-start">
+            <div style="width: 70px">chName:</div>
+            <div>{{ item && item.chName }}</div>
           </div>
         </div>
       </div>
@@ -29,7 +29,7 @@ defineProps({
 
 <style scoped>
 .card {
-  /* background-color: skyblue; */
+  /* background-color: #ccc; */
 }
 .title {
   font-size: 20px;
@@ -41,12 +41,12 @@ defineProps({
   margin: 0 0 5px 0;
 }
 .item2 {
+  background-color: #ccc;
   padding: 5px;
   border: 2px solid #ccc;
   /* border-bottom: 0; */
   border-radius: 5px;
   margin: 0 0 5px 0;
-  background-color: skyblue;
 }
 /* .item1:last-child .item2:last-child { */
 /* border-bottom: 1px solid #000; */

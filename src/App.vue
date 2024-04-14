@@ -1,11 +1,15 @@
 <script setup lang="ts">
 import BoxPC from "./components/BoxPC.vue";
 import BoxPCCracks from "./components/BoxPCCracks.vue";
-import { Games } from "./static/js/Games";
+import BoxPS4_PS5 from "./components/BoxPS4_PS5.vue";
+import BoxLikes_noBuy_noCracks from "./components/BoxLikes_noBuy_noCracks.vue";
+import { Games } from "./static/js/Games.js";
 </script>
 <template>
   <BoxPC :PC="Games.PC" />
   <BoxPCCracks :PC_Cracks="Games.PC_Cracks" />
+  <BoxPS4_PS5 :PS4_PS5="Games.PS4_PS5" />
+  <BoxLikes_noBuy_noCracks :Likes_noBuy_noCracks="Games.Likes_noBuy_noCracks" />
 </template>
 
 <style scoped>

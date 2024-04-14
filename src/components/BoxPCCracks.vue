@@ -2,15 +2,15 @@
 defineProps({
   PC_Cracks: {
     type: Object,
-    required: true
-  }
-})
+    required: true,
+  },
+});
 </script>
 
 <template>
   <div class="card">
     <div class="box_PC_Cracks">
-      <div style="font-weight: 700; margin-top: 20px">
+      <div class="title">
         {{ "Games.PC_Cracks" }}
       </div>
       <div class="item1" v-for="(item, index) in PC_Cracks" :key="index">
@@ -50,12 +50,25 @@ defineProps({
 </template>
 
 <style scoped>
+.card {
+  /* background-color: pink; */
+}
+.title {
+  font-size: 20px;
+  font-weight: 700;
+  padding: 5px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  width: 320px;
+  margin: 0 0 5px 0;
+}
 .item2 {
   padding: 5px;
   border: 2px solid #ccc;
   /* border-bottom: 0; */
   border-radius: 5px;
   margin: 0 0 5px 0;
+  background-color: pink;
 }
 .item1:last-child .item2:last-child {
   /* border-bottom: 1px solid #000; */
