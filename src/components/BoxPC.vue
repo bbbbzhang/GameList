@@ -35,7 +35,7 @@ defineProps({
   border-radius: 5px;
   margin: 0 0 5px 0;
 }
-.item1:last-child .item2:last-child {
+/* .item1:last-child .item2:last-child { */
   /* border-bottom: 1px solid #000; */
-}
+/* } */
 </style>
