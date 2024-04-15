@@ -1,10 +1,7 @@
 <script setup lang="ts">
-defineProps({
-  PC_Cracks: {
-    type: Object,
-    required: true,
-  },
-});
+const props = defineProps<{
+  PC_Cracks: Object;
+}>();
 </script>
 
 <template>
@@ -59,7 +56,7 @@ defineProps({
   padding: 5px;
   border: 2px solid #ccc;
   border-radius: 5px;
-  width: 320px;
+  /* min-width: 320px; */
   margin: 0 0 5px 0;
 }
 .item2 {

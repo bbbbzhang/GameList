@@ -37,7 +37,7 @@ defineProps({
   padding: 5px;
   border: 2px solid #ccc;
   border-radius: 5px;
-  width: 320px;
+  /* min-width: 320px; */
   margin: 0 0 5px 0;
 }
 .item2 {
