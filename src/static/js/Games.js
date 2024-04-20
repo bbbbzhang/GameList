@@ -102,17 +102,11 @@ const GamesList = {
         ],
         ACT_2D: [
             {
-                chName: "奥日与精灵意志",
-            },
-            {
-                chName: "奥日与黑暗森林",
-            },
-            {
                 chName: "出击飞龙",
             },
-            {
-                chName: "空洞骑士",
-            },
+            // {
+            //     chName: "空洞骑士",
+            // },
             {
                 chName: "经典回归魔界村",
             },
@@ -121,6 +115,45 @@ const GamesList = {
             },
             {
                 chName: "茶杯头",
+            },
+            {
+                chName: "炽热合金",
+            },
+            {
+                chName: "蔚蓝",
+            },
+            {
+                chName: "加拿大死亡之路",
+            },
+            {
+                chName: "终结将至",
+            },
+            {
+                chName: "挺进地牢",
+            },
+            {
+                chName: "逃出地牢",
+            },
+            {
+                chName: "迈阿密热线1",
+            },
+            {
+                chName: "迈阿密热线2",
+            },
+            {
+                chName: "武士零",
+            },
+            {
+                chName: "废土之王",
+            },
+            {
+                chName: "奥日与鬼火意志",
+            },
+            {
+                chName: "奥日与黑暗森林",
+            },
+            {
+                chName: "塔倒",
             },
         ],
         PUZ_3D: [
@@ -259,9 +292,8 @@ const GamesList = {
             },
             {
                 chName: "地平线 西之绝境",
-                path1:
-                    "C:\Users'19654'\Documents\Horizon Forbidden West Complete Edition",
-                path2: "",
+                path1: "C:\Users'19654'\Documents\Horizon Forbidden West Complete Edition",
+                path2: "C:\Users\'19654'\AppData\Roaming\Guerrilla Games\Horizon Forbidden West Complete Edition",
                 version: "Build.13801562",
                 platform: "STEAM",
                 AppID: "2420110",
@@ -271,6 +303,7 @@ const GamesList = {
                 chName: "底特律 化身为人",
                 path1: "C:\Users\Public\Documents\Steam\CODEX'1222140'",
                 path2: "C:\Users'19654'\Saved Games\Quantic Dream\Detroit Become Human",
+                path3: "https://115.com/s/swzyua93n5y?password=k2d4&#底特律-化身为人",
                 version: "Build.7662975",
                 platform: "STEAM",
                 AppID: "1222140",
@@ -278,7 +311,7 @@ const GamesList = {
             },
             {
                 chName: "古惑狼4",
-                path1: "",
+                path1: "C:\Users\'19654'\AppData\Local\CrashBandicoot4",
                 path2: "",
                 version: "",
                 platform: "",
@@ -317,7 +350,7 @@ const GamesList = {
             {
                 chName: "地平线 零之曙光",
                 path1: "C:\Users'19654'\Documents\Horizon Zero Dawn",
-                path2: "",
+                path2: "https://115.com/s/swzyuat3n5y?password=o3b9&#地平线-零之曙光",
                 version: "V1.0.11.14",
                 platform: "EPIC",
                 AppID: "",
@@ -345,7 +378,7 @@ const GamesList = {
             {
                 chName: "往日不再",
                 path1: "C:\Users'19654'\AppData\Local\BendGame",
-                path2: "C:\Users'19654'\AppData\Local\DaysGone",
+                path2: "https://115.com/s/swzyua13n5y?password=t6d0&#往日不再",
                 version: "V1.07",
                 platform: "GOG",
                 AppID: "",
@@ -448,8 +481,9 @@ const GamesList = {
         ACT_2D: [
             {
                 chName: "洛克人合集1",
-                path1: "",
-                path2: "",
+                path1: "根目录",
+                path2: "C:\Users\'19654'\AppData\Roaming\MegaMan",
+                path3: "https://pan.baidu.com/s/1JfLtEth8PibBtVt2eHCySQ#list/path=%2F",
                 version: "Build.20190108",
                 platform: "STEAM",
                 AppID: "363440",
@@ -457,8 +491,9 @@ const GamesList = {
             },
             {
                 chName: "洛克人合集2",
-                path1: "",
-                path2: "",
+                path1: "根目录",
+                path2: "C:\Users\'19654'\AppData\Roaming\MegaMan2",
+                path3: "https://pan.baidu.com/s/12CqW2DZp-_a5C1QryHo4YA#list/path=%2F",
                 version: "Build.20180619",
                 platform: "STEAM",
                 AppID: "495050",
@@ -466,8 +501,8 @@ const GamesList = {
             },
             {
                 chName: "洛克人X合集1",
-                path1: "",
-                path2: "",
+                path1: "根目录",
+                path2: "https://115.com/s/swzyuab3n5y?password=e7f3&#Mega.Man.X.Legacy.Co…ction.Build.20180905",
                 version: "Build.20180905",
                 platform: "STEAM",
                 AppID: "743890",
@@ -475,8 +510,8 @@ const GamesList = {
             },
             {
                 chName: "洛克人X合集2",
-                path1: "",
-                path2: "",
+                path1: "根目录",
+                path2: "https://115.com/s/swzyuaf3n5y?password=i4c4&#Mega.Man.X.Legacy.Co…ion.2.Build.20180905",
                 version: "Build.20180905",
                 platform: "STEAM",
                 AppID: "743900",
@@ -484,18 +519,36 @@ const GamesList = {
             },
             {
                 chName: "洛克人ZERO&ZX合集",
-                path1: "",
-                path2: "",
+                path1: "根目录",
+                path2: "https://pan.baidu.com/s/1IVQV-bLZ9jTD3j4-dgfUcA?pwd=9999#list/path=%2F",
                 version: "Build.20220303",
                 platform: "STEAM",
                 AppID: "999020",
+                prompt: "",
+            },
+            {
+                chName: "重力回路",
+                path1: "",
+                path2: "",
+                version: "v1.04",
+                platform: "GOG",
+                AppID: "",
+                prompt: "",
+            },
+            {
+                chName: "赛博暗影",
+                path1: "根目录",
+                path2: "",
+                version: "v1.04",
+                platform: "STEAM",
+                AppID: "861250",
                 prompt: "",
             },
         ],
         PUZ_3D: [
             {
                 chName: "还愿",
-                path1: "",
+                path1: "C:\Users\'19654'\AppData\LocalLow\RedCandleGames",
                 path2: "",
                 version: "",
                 platform: "",
@@ -504,6 +557,15 @@ const GamesList = {
             },
         ],
         RPG: [
+            {
+                chName: "勇气默示录2",
+                path1: "https://pan.baidu.com/s/1v7q7ayoRvrggIIuRcMBNZg?pwd=9999#list/path=%2F",
+                path2: "C:\Users\’\AppData\Local\Bravely_Default_II",
+                version: "BuildId.6204549",
+                platform: "STEAM",
+                AppID: "1446650",
+                prompt: "",
+            },
             {
                 chName: "最终幻想7 核心危机 重聚",
                 path1:
@@ -518,6 +580,7 @@ const GamesList = {
                 chName: "最终幻想7 重制版",
                 path1: "C:\Users'19654'\Documents\My Games\FINAL FANTASY VII REMAKE",
                 path2: "C:\Users\Public\Documents\Epic\CODEX\FFVIIRemakeIntergrade",
+                path3: "https://115.com/s/swzyug63n5y?password=vb74&#最终幻想7重制版",
                 version: "v1.002",
                 platform: "EPIC",
                 AppID: "",
@@ -525,9 +588,9 @@ const GamesList = {
             },
             {
                 chName: "最终幻想15",
-                path1:
-                    "https://pan.baidu.com/s/174QbsmNDDUfCMnvSoi_OAw?pwd=9999#list/path=%2F",
-                path2: "",
+                path1: "https://pan.baidu.com/s/174QbsmNDDUfCMnvSoi_OAw?pwd=9999#list/path=%2F",
+                path2: "C:\Users\'19654'\Documents\My Games\FINAL FANTASY XV",
+                path3: "C:\Users\Public\Documents\Steam\CODEX\'637650'",
                 version: "",
                 platform: "",
                 AppID: "",
@@ -536,7 +599,7 @@ const GamesList = {
             {
                 chName: "八方旅人",
                 path1: "https://pan.baidu.com/s/1Dd5Zi_c367fJgnF6uVFRsA?pwd=6666#list/path=%2F",
-                path2: "",
+                path2: "C:\Users\'19654'\Documents\My Games\Octopath_Traveler",
                 version: "",
                 platform: "",
                 AppID: "",
@@ -544,8 +607,10 @@ const GamesList = {
             },
             {
                 chName: "八方旅人2",
-                path1: "",
-                path2: "",
+                path1: "C:\Users\'19654'\Documents\My Games\Octopath_Traveler2",
+                path2: "C:\Users\'19654'\AppData\Local\Octopath_Traveler2",
+                path3: "C:\Users\Public\Documents\Steam\RUNE\'1971650'",
+                path4: "https://pan.baidu.com/s/1uJxRP8ZEaaOuPdIxvUKvDg?pwd=9999#list/path=%2F",
                 version: "",
                 platform: "",
                 AppID: "",
@@ -554,7 +619,7 @@ const GamesList = {
             {
                 chName: "时空勇士",
                 path1: "https://pan.baidu.com/s/1b_iV5-91Zpr62ggraTJnnw?pwd=whwr#list/path=%2F",
-                path2: "",
+                path2: "C:\Users\'19654'\Documents\My Games\LIVEALIVE",
                 version: "",
                 platform: "",
                 AppID: "",
@@ -563,7 +628,7 @@ const GamesList = {
             {
                 chName: "三角战略",
                 path1: "https://pan.baidu.com/s/17GSnqUf9VaacCTEh2rjyRA?pwd=nftk#list/path=%2F",
-                path2: "",
+                path2: "C:\Users\’\Documents\My Games\TRIANGLE_STRATEGY",
                 version: "",
                 platform: "",
                 AppID: "",
@@ -571,17 +636,17 @@ const GamesList = {
             },
             {
                 chName: "勇者斗恶龙11S",
-                path1: "",
-                path2: "",
-                version: "",
+                path1: "C:\Users\'19654'\Documents\My Games\DRAGON QUEST XI S",
+                path2: "C:\Users\Public\Documents\Steam\CODEX\'1295510'",
+                version: "https://pan.baidu.com/s/14rF-zUZC8gMy9MKTlEP9fg?pwd=9999#list/path=%2F",
                 platform: "",
                 AppID: "",
                 prompt: "",
             },
             {
                 chName: "皇家骑士团 重生",
-                path1: "",
-                path2: "",
+                path1: "C:\Users\'19654'\Documents\My Games\Tactics Ogre Reborn",
+                path2: "https://pan.baidu.com/s/1JGexucUsYjdyQ1cQ8brJWw?pwd=9999#list/path=%2F",
                 version: "",
                 platform: "",
                 AppID: "",
@@ -599,7 +664,8 @@ const GamesList = {
             {
                 chName: "最终幻想12",
                 path1: "https://pan.baidu.com/s/1-oCXC5Ner9NM92cPURZ4QQ#list/path=%2F",
-                path2: "",
+                path2: "C:\Users\'19654'\Documents\My Games\FINAL FANTASY XII THE ZODIAC AGE",
+                path3: "C:\Users\Public\Documents\Steam\CODEX\'595520'",
                 version: "v1.0.4",
                 platform: "STEAM",
                 AppID: "595520",
@@ -607,8 +673,8 @@ const GamesList = {
             },
             {
                 chName: "最终幻想10",
-                path1: "",
-                path2: "",
+                path1: "C:\Users\'19654'\Documents\SQUARE ENIX\FINAL FANTASY X&X-2 HD Remaster",
+                path2: "https://115.com/s/swzyua33n5y?password=o676&#Final.Fantasy.X.X-2.H…master.Build.20190307",
                 version: "Build.20190307",
                 platform: "STEAM",
                 AppID: "359870",
@@ -617,7 +683,7 @@ const GamesList = {
             {
                 chName: "最终幻想9",
                 path1: "https://pan.baidu.com/s/10hbZy8HD43TpsK-OJzGO6Q#list/path=%2F",
-                path2: "",
+                path2: "C:\Users\'19654'\AppData\LocalLow\SquareEnix\FINAL FANTASY IX",
                 version: "Build.20200806",
                 platform: "STEAM",
                 AppID: "377840",
@@ -626,7 +692,7 @@ const GamesList = {
             {
                 chName: "最终幻想8",
                 path1: "https://pan.baidu.com/s/1fhsxPv15LUFZDHTc_fPqww?pwd=7246",
-                path2: "",
+                path2: "C:\Users\'19654'\Documents\My Games\FINAL FANTASY VIII Remastered",
                 version: "",
                 platform: "",
                 AppID: "",
@@ -643,8 +709,8 @@ const GamesList = {
             },
             {
                 chName: "时空之轮2",
-                path1: "https://pan.baidu.com/s/1hGVXy6-QKuQmtOXyJLe1Bw?pwd=7777",
-                path2: "",
+                path1: "https://115.com/s/swzyuai3n5y?password=uf24&#时空之轮2",
+                path2: "C:\Users\'19654'\Documents\My Games\CHRONO CROSS  THE RADICAL DREAMERS EDITION",
                 version: "v1.0.1.0",
                 platform: "STEAM",
                 AppID: "1133760",
@@ -653,7 +719,8 @@ const GamesList = {
             {
                 chName: "最终幻想1",
                 path1: "https://pan.baidu.com/s/1dxWlvy37-durqwu5-MHjIQ?pwd=9999#list/path=%2F",
-                path2: "",
+                path2: "C:\Users\'19654'\Documents\My Games\FINAL FANTASY PR",
+                path3: "C:\Users\'19654'\AppData\LocalLow\SQUARE ENIX, Inc_\FINAL FANTASY",
                 version: "v1.1.0",
                 platform: "STEAM",
                 AppID: "1173770",
@@ -662,7 +729,8 @@ const GamesList = {
             {
                 chName: "最终幻想2",
                 path1: "https://pan.baidu.com/s/1dxWlvy37-durqwu5-MHjIQ?pwd=9999#list/path=%2F",
-                path2: "",
+                path2: "C:\Users\'19654'\Documents\My Games\FINAL FANTASY II PR",
+                path3: "C:\Users\'19654'\AppData\LocalLow\SQUARE ENIX, Inc_\FINAL FANTASY II",
                 version: "v1.1.0",
                 platform: "STEAM",
                 AppID: "1173780",
@@ -671,7 +739,8 @@ const GamesList = {
             {
                 chName: "最终幻想3",
                 path1: "https://pan.baidu.com/s/1dxWlvy37-durqwu5-MHjIQ?pwd=9999#list/path=%2F",
-                path2: "",
+                path2: "C:\Users\'19654'\Documents\My Games\FINAL FANTASY III PR",
+                path3: "C:\Users\'19654'\AppData\LocalLow\SQUARE ENIX, Inc_\FINAL FANTASY III",
                 version: "v1.1.0",
                 platform: "STEAM",
                 AppID: "1173790",
@@ -680,7 +749,8 @@ const GamesList = {
             {
                 chName: "最终幻想4",
                 path1: "https://pan.baidu.com/s/1dxWlvy37-durqwu5-MHjIQ?pwd=9999#list/path=%2F",
-                path2: "",
+                path2: "C:\Users\'19654'\Documents\My Games\FINAL FANTASY IV PR",
+                path3: "C:\Users\'19654'\AppData\LocalLow\SQUARE ENIX, Inc_\FINAL FANTASY IV",
                 version: "v1.1.0",
                 platform: "STEAM",
                 AppID: "1173800",
@@ -689,7 +759,8 @@ const GamesList = {
             {
                 chName: "最终幻想5",
                 path1: "https://pan.baidu.com/s/1dxWlvy37-durqwu5-MHjIQ?pwd=9999#list/path=%2F",
-                path2: "",
+                path2: "C:\Users\'19654'\Documents\My Games\FINAL FANTASY V PR",
+                path3: "C:\Users\'19654'\AppData\LocalLow\SQUARE ENIX, Inc_\FINAL FANTASY V",
                 version: "v1.1.0",
                 platform: "STEAM",
                 AppID: "1173810",
@@ -698,8 +769,9 @@ const GamesList = {
             {
                 chName: "最终幻想6",
                 path1: "https://pan.baidu.com/s/1dxWlvy37-durqwu5-MHjIQ?pwd=9999#list/path=%2F",
-                path2: "",
-                version: "v1.1.0",
+                path2: "C:\Users\'19654'\Documents\My Games\FINAL FANTASY VI PR",
+                path3: "C:\Users\'19654'\AppData\LocalLow\SQUARE ENIX, Inc_\FINAL FANTASY VI",
+                vervsion: "v1.1.0",
                 platform: "STEAM",
                 AppID: "1173820",
                 prompt: "",
@@ -1462,18 +1534,7 @@ const ROMsList = {
         },
     },
     "Nintendo - Nintendo Switch": {
-        "00.独占": {
-            total: "46",
-        },
-        "01.适合": {
-            total: "81",
-        },
-        "02.其他": {
-            total: "59",
-        },
-        "03.汉化": {
-            total: "2",
-        },
+        total: "188",
     },
     "Nintendo - Nintendo Wii": {
         "CN WII ROMs": {
@@ -1537,12 +1598,7 @@ const ROMsList = {
         },
     },
     "Sony - Playstation 4": {
-        版本不错: {
-            total: "8",
-        },
-        版本不确定: {
-            total: "32",
-        },
+        total: "40",
     },
     "Sony - Playstation Portable": {
         "CN PSP ROMs": {
@@ -1600,3 +1656,4 @@ const ROMsList = {
 export {
     GamesList, ROMsList
 }
+console.log(GamesList.PC.ACT_2D);

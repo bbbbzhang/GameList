@@ -7,7 +7,7 @@ import ROMs from "./pages/ROMs/ROMs.vue";
 <template>
   <div>
     <Games :Games="GamesList" />
-    <ROMs :ROMs="ROMsList" />
+    <!-- <ROMs :ROMs="ROMsList" /> -->
   </div>
 </template>
 
