@@ -477,6 +477,15 @@ const GamesList = {
                 AppID: "2138710",
                 prompt: "豪华版",
             },
+            {
+                chName: "对马岛之魂-导演剪辑版",
+                path1: "",
+                path2: "",
+                version: "Build.14380324 ",
+                platform: "STEAM",
+                AppID: "2215430",
+                prompt: "百度网盘内有说明",
+            },
         ],
         ACT_2D: [
             {
