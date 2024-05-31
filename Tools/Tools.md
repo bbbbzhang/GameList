@@ -601,17 +601,6 @@ C:\Users\19654\AppData\Local\blastem
 #### ROMs
 
 ```
-2T固态有一部分的文件夹
-Nintendo - Nintendo 3DS
-Nintendo - Nintendo GameCube
-Nintendo - Nintendo Switch
-Nintendo - Nintendo Wii
-Sony - Playstation 2
-Sony - Playstation 3
-Sony - Playstation 4
-NO-INTRO
-
-
 16T机械     
 几乎是全的(适合收藏)
 
