@@ -58,7 +58,7 @@ GP66的 F、G、空格 按键不好使
 解压ISO时，遇到重名文件，先移出来，等解压完成后，再覆盖进去
 
 WIN电脑到手设置
-更新系统、更新驱动、关通知、关广告、关自启动、显示隐藏文件、改硬盘名称、任务栏、开始菜单、右下角弹窗、桌面、壁纸、锁屏壁纸、锁屏显示、登录账号、下载常用应用程序、应用程序安装至C盘默认位置、盒盖不影响操作(笔记本)、不休眠、所有文件都下载至Downloads、护眼、高刷、英文键盘、不要嫌弃打开GameBar、关闭拖动窗口布局
+更新系统、更新驱动、关通知、关广告、关自启动、显示隐藏文件、改硬盘名称、任务栏、开始菜单、右下角弹窗、桌面、壁纸、锁屏壁纸、锁屏显示、登录账号、下载常用应用程序、应用程序安装至C盘默认位置、盒盖不影响操作(笔记本)、不休眠、所有文件都下载至Downloads、护眼、高刷、英文键盘、不要嫌弃打开GameBar、关闭拖动窗口布局、删除不常用的系统软件
 
 
 进入U盘启动
@@ -634,8 +634,12 @@ C:\Users\19654\AppData\Local\blastem
 PS1全集(2.7T)、PSP全集(2.7T)
 
 2T固态
+Nintendo - Nintendo 3DS 部分
+Nintendo - Nintendo GameCube 部分
 Nintendo - Nintendo Switch 部分
-Sony - Playstation 3 部分
+Nintendo - Nintendo Wii 部分
+Sony - Playstation 2 部分
+Sony - Playstation 3 无
 Sony - Playstation 4 无
 Z NO-INTRO 无
 
