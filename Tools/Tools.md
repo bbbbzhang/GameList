@@ -58,7 +58,7 @@ GP66的 F、G、空格 按键不好使
 解压ISO时，遇到重名文件，先移出来，等解压完成后，再覆盖进去
 
 WIN电脑到手设置
-更新系统、更新驱动、关通知、关广告、关自启动、显示隐藏文件、改硬盘名称、任务栏、开始菜单、右下角弹窗、桌面、壁纸、锁屏壁纸、锁屏显示、登录账号、下载常用应用程序、应用程序安装至C盘默认位置、盒盖不影响操作(笔记本)、不休眠、所有文件都下载至Downloads、护眼、高刷、英文键盘、不要嫌弃打开GameBar、关闭拖动窗口布局、删除不常用的系统软件
+更新系统、更新驱动、关通知、关广告、关自启动、显示隐藏文件、改硬盘名称、任务栏、开始菜单、右下角弹窗、桌面、壁纸、锁屏壁纸、锁屏显示、登录账号、下载常用应用程序、应用程序安装至C盘默认位置、盒盖不影响操作(笔记本)、不休眠、所有文件都下载至Downloads、护眼、高刷、英文键盘、不要嫌弃打开GameBar、关闭拖动窗口布局、删除不常用的系统软件、触摸板设置
 
 
 进入U盘启动
@@ -123,29 +123,7 @@ NVDIA控制面板，3D设置，管理3D设置，全局设置，垂直同步:开
 ```js
 固态硬盘剩余空间多，不是浪费，可以延长使用寿命
 
-笔记本
-Windows C 500g 固态
-Other D 4T 固态
-Extra E 16T 机械 移动硬盘
 
-台式机
-Windows C 500g 固态
-500G 机械
-500G 机械
-
-百度网盘
-Tools完全版
-Games ./Cracks
-(115也有部分备份)
-
-Other D 盘
-Tools部分
-Downloads
-Games ./Steamlibrary
-
-Extra E 盘
-Tools ./ROMs
-Tools ./Videos
 
 
 ```
@@ -287,45 +265,19 @@ C:\Program Files (x86)\Steam\userdata\352556638\631510\remote
 
 ```
 
-##### Epic Games 
-
-```
-Epic Games Account Two-Factor backup codes
-OU3IYEIM
-FLPMM6ZZ
-51LYLPLN
-MQPPQJ0U
-QQJT6DJ8
-LGK77KI1
-BCQ6BO1N
-S4DQZX5F
-BTSEAQRO
-RPMN0ZRB
-
-```
-
 ##### 理性购买
 
 ```
 重置版 重置版 重设版 HD版 重装上阵 大师合集 传奇合集 遗产合集 重启 重载
 终极版 黄金版 豪华版 典藏版 年度版 导演剪辑版 完整版 完全版
 预购版 限定版 捆绑包
-奥德赛 崛起 起源 复仇 审无线 重生 进化
+奥德赛 崛起 起源 复仇 审无线 重生 进化 影
 标准版 一般版 普通版
 
 
 ```
 
 #### Console
-
-##### NDS
-
-```
-一堆配件
-烧录卡
-
-
-```
 
 ##### N3DS
 
@@ -406,9 +358,8 @@ PS5手柄不同的指示灯代表的功能
 
 
 PS5中，不错的"独占"
-血源诅咒
-最后的守护者
-瑞奇与叮当重制版
+血源诅咒、最后的守护者、瑞奇与叮当重制版
+侠盗猎车手6 (未来上PC)
 最后生还者2重制版 (未来上PC)
 最终幻想7重生 (未来上PC)
 战神5 (未来上PC)
@@ -445,7 +396,7 @@ Dolphin、DuckStation、RetroArch 使用良好
 塞尔达传说-黄昏公主HD汉化版 
 更新安装失败
 
-CEMU预配置路径
+Cemu预配置路径
 C:\Users\19654\AppData\Local\Cemu
 
 
@@ -474,7 +425,7 @@ DQ8汉化版字幕文件夹
 ##### Dolphin
 
 ```
-
+洛克人9、10 已安装DLC
 
 ```
 
@@ -491,6 +442,8 @@ DQ8汉化版字幕文件夹
 ##### PPSSPP
 
 ```
+合金弹头XX、合金装备-和平行者 已安装DLC
+
 
 
 ```
@@ -555,8 +508,8 @@ exdata
 马克思佩恩3、黑色洛城、出击飞龙、神秘海域2、最后生还者、战神-升天
 
 
-
-
+根目录的games.yml
+控制文件夹格式的游戏列表
 
 
 ```
@@ -573,7 +526,7 @@ YUZU设置
 user/config/qt-config.ini 
 
 YUZU游戏目录设置
-user/config/qt-config.ini -> Paths\gamedirs\
+user/config/qt-config.ini  ->  Paths\gamedirs\
 
 存档
 user/nand/user/save
@@ -632,16 +585,6 @@ C:\Users\19654\AppData\Local\blastem
 百度网盘
 比16T机械多个
 PS1全集(2.7T)、PSP全集(2.7T)
-
-2T固态
-Nintendo - Nintendo 3DS 部分
-Nintendo - Nintendo GameCube 部分
-Nintendo - Nintendo Switch 部分
-Nintendo - Nintendo Wii 部分
-Sony - Playstation 2 部分
-Sony - Playstation 3 无
-Sony - Playstation 4 无
-Z NO-INTRO 无
 
 
 
@@ -832,8 +775,6 @@ Windows Registry Editor Version 5.00
 [-HKEY_CLASSES_ROOT\UserLibraryFolder\shellex\ContextMenuHandlers\Sharing]
 ```
 
-
-
 ##### 关闭拖动窗口布局
 
 ```
@@ -942,13 +883,17 @@ R★(开发商)新作(多)
 魂系列新作
 洛克人新作
 小小梦魇3
-黑神话悟空
-路易吉鬼屋2 重制版
-怪物猎人物语 重制版
-纸片马里奥-千年之门 重制版
+黑神话-悟空
+漫威vs.卡普空 格斗合集 经典街机
 生化危机23 78
 怪物猎人-世界
 黑暗之魂123 只狼 艾尔登法环
+
+密特罗德Prime4
+马里奥＆路易吉RPG-兄弟齐航
+塞尔达传说-智慧的再现
+森喜刚-回归HD
+
 
 
 PS3(七个瑞奇与叮当)
