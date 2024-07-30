@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { GamesList } from "./static/js/Games.js";
-import { ROMsList } from "./static/js/Games.js";
+// import { ROMsList } from "./static/js/Games.js";
 import Games from "./pages/Games1/Games.vue";
-import ROMs from "./pages/ROMs/ROMs.vue";
+// import ROMs from "./pages/ROMs/ROMs.vue";
 </script>
 <template>
   <div>

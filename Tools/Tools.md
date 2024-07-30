@@ -268,7 +268,7 @@ C:\Program Files (x86)\Steam\userdata\352556638\631510\remote
 ##### 理性购买
 
 ```
-重置版 重置版 重设版 HD版 重装上阵 大师合集 传奇合集 遗产合集 重启 重载
+重置版 重置版 重设版 HD版 重装上阵 大师合集 传奇合集 遗产合集 重启 重载 过渡版
 终极版 黄金版 豪华版 典藏版 年度版 导演剪辑版 完整版 完全版
 预购版 限定版 捆绑包
 奥德赛 崛起 起源 复仇 审无线 重生 进化 影
@@ -869,33 +869,6 @@ rd /s /q "D:\Program Files"
 #### 临时
 
 ```
-期待的游戏
-
-任天堂(开发商)新作(多)
-R★(开发商)新作(多)
-战神续作
-生化危机续作
-鬼泣续作
-怪物猎人续作
-街头霸王续作
-最终幻想续作
-勇者斗恶龙续作
-魂系列新作
-洛克人新作
-小小梦魇3
-黑神话-悟空
-漫威vs.卡普空 格斗合集 经典街机
-生化危机23 78
-怪物猎人-世界
-黑暗之魂123 只狼 艾尔登法环
-
-密特罗德Prime4
-马里奥＆路易吉RPG-兄弟齐航
-塞尔达传说-智慧的再现
-森喜刚-回归HD
-
-
-
 PS3(七个瑞奇与叮当)
 Ratchet & Clank Collection 瑞奇与叮当高清合集
 Ratchet & Clank Future: Tools of Destruction 瑞奇与叮当 未来：毁灭工具
@@ -904,6 +877,8 @@ Ratchet & Clank Future: A Crack in Time 瑞奇与叮当 未来：时空裂缝
 Ratchet & Clank: All 4 One 瑞奇与叮当：四位一体
 Ratchet & Clank: Full Frontal Assault 瑞奇与叮当：全面进攻
 Ratchet: Deadlocked 瑞奇：死锁
+
+
 
 
 
