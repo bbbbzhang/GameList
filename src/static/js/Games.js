@@ -1,6 +1,6 @@
 const GamesList = {
     PC: {
-        STEAM: [{ chName: STEAM_TODO }]
+        STEAM: [{ chName: "STEAM_TODO" }]
         //     ADV_3D: [
         //         {
         //             chName: "黑暗之魂 重制版",
