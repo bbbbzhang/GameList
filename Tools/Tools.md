@@ -24,9 +24,6 @@ Emulators  9
 
 
 
-
-
-
 ```
 
 # 游戏
@@ -46,6 +43,7 @@ PC
 
 NS
 塞尔达传说-王国之泪
+
 
 
 
@@ -107,6 +105,15 @@ E:\Games\Emulators
 预购版 限定版 捆绑包
 奥德赛 崛起 起源 复仇 审无线 重生 进化 影
 标准版 一般版 普通版
+
+PS3(七个瑞奇与叮当)未下载
+Ratchet & Clank Collection 瑞奇与叮当高清合集
+Ratchet & Clank Future: Tools of Destruction 瑞奇与叮当 未来：毁灭工具
+Ratchet & Clank Future: Quest for Booty  瑞奇与叮当 未来：寻求战利品
+Ratchet & Clank Future: A Crack in Time 瑞奇与叮当 未来：时空裂缝
+Ratchet & Clank: All 4 One 瑞奇与叮当：四位一体
+Ratchet & Clank: Full Frontal Assault 瑞奇与叮当：全面进攻
+Ratchet: Deadlocked 瑞奇：死锁
 
 
 
@@ -271,7 +278,7 @@ C:\Users\19654\AppData\Local\Cemu
 ##### Citra
 
 ```
-Citra 默认配置路径
+Citra默认配置路径
 C:\Users\19654\AppData\Roaming\Citra
 
 配置路径
@@ -283,8 +290,7 @@ DQ8汉化版字幕文件夹
 3DS实机 sdmc文件夹(根目录)
 模拟器 D:\Tools\Emulators\Citra\nightly\user\sdmc
 
-无加速快捷键
-
+Citra无加速快捷键
 
 
 勇气默示录 1.1汉化说明
@@ -361,7 +367,6 @@ RetroArch/saves/PSP/SYSTEM
 PPSSPP/memstick/PSP/SYSTEM
 
 
-
 ```
 
 ##### RPCS3
@@ -411,10 +416,7 @@ exdata
 ##### YUZU
 
 ```
-YUZU模拟器官网
-https://yuzu-emu.org/
-
-WINDOWS玩NS游戏需要：NS模拟器、游戏ROM、固件、密钥
+玩NS游戏需要：NS模拟器、游戏ROM、固件、密钥
 
 YUZU设置
 user/config/qt-config.ini 
