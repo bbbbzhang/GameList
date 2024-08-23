@@ -140,7 +140,7 @@ const PC_Cracks = {
             chName: "心灵杀手2",
             path1: "C:\Users'19654'\AppData\Local\Remedy\AlanWake2",
             path2: "C:\Users\Public\Documents\Epic\CODEX\AlanWake2",
-            version: "v1.0.12",
+            version: "v1.1.1",
             platform: "EPIC",
             AppID: "",
             prompt: "豪华版",
